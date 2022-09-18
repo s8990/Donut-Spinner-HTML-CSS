@@ -6,7 +6,7 @@ rotate the element.
 
 # Browser support
 
-## ⚠️ Requires prefixes for full support.
+> ⚠️ Requires prefixes for full support.
 
 [https://caniuse.com/#feat=css-animation](https://caniuse.com/#feat=css-animation)
 
